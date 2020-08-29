@@ -35,6 +35,7 @@ body {
     height: 100px;
     flex-basis: 24.5%;
     border: none;
+    cursor: pointer;
     
 }
 .calc-button:hover{
